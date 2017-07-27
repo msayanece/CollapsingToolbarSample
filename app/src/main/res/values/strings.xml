@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CollapsingToolbarSample</string>
+    <string name="text_content">We’ll pass our image view’s bitmap to the Palette API, which will generate colors based on the image in an PaletteAsyncListener. Upon completion, we can fetch the color we want and set it to our CollapsingToolbarLayout,  which in turn will color our Toolbar when we scroll up.</string>
+</resources>
